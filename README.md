@@ -1,7 +1,7 @@
 # flood_management
 
-Predicting a natural disaster is totally a random event.We can just predict and  say flood is going to happen .That is no way to escape from the disaster .So management of a natural disaster is more important than the prevention itself
-People are ready to help during the time of natural disaster but they are not sure about who to help and where to go to help . At the end of the day it s not just about prediction .It s all about physical human help at time of disasters.Our app will organise this so that people get right help at the right time.  
+Predicting a natural disaster is totally a random event.We can just predict and  say flood is going to happen .There is no way to escape from the disaster .So management of a natural disaster is more important than the prevention itself
+People are ready to help during the time of natural disaster but they are not sure about who to help and where to go to help . At the end of the day it s not just about prediction .It s all about physical human help at time of disasters.Our app will organise this so that people get right help at the right time.This organisation will save deaths due to starvation ,infection and poor hygienes.  
 
 We're coming up with an app that will have 2 parts. 
 1)we try to predict when a flood will occur based on  rainfall,dam water level,high tides ,etc which is a classic method 
